@@ -1,0 +1,53 @@
+site_name: Karned
+site_url: https://karned.bzh
+
+theme:
+  name: material
+  favicon: img/favicon.png
+  logo: img/favicon.png
+  palette:
+    - scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: dark mode
+    - scheme: slate
+      primary: black
+      toggle:
+        icon: material/brightness-4
+        name: light mode
+  font:
+    code: Roboto Mono
+  language: fr
+  features:
+    - search.suggest
+    - search.highlight
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/killiankopp
+      name: github.com/killiankopp
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/killian-kopp/
+      name: linkedin.com/in/killian-kopp
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:<killiankopp@gmail.com>
+      name: killiankopp@gmail.com
+  copyright: Copyright &copy; 2000 - 2025 Killian KOPP
+
+repo_url: https://github.com/killiankopp
+repo_name: github.com/killiankopp
+
+plugins:
+  - search
+  - pub-blog:
+      blog_dir: blog
+  - pub-meta:
+      blog_dir: blog
+
+markdown_extensions:
+  - tables
+  - pymdownx.emoji
+  - pymdownx.highlight
+  - pymdownx.superfences
