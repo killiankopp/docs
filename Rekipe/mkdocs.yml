@@ -1,10 +1,8 @@
-site_name: Karned
-site_url: https://karned.bzh
+site_name: Rekipe
+site_url: https://rekipe.karned.bzh
 
 nav:
   - Accueil: index.md
-  - Robotique:
-      - Voiture: robotique/voiture.md
   - Références: references.md
   - À propos: about.md
 
@@ -34,18 +32,13 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/killiankopp
-      name: github.com/killiankopp
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/killian-kopp/
-      name: linkedin.com/in/killian-kopp
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@killiankopp
-    - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/repositories/killiankopp
     - icon: fontawesome/solid/paper-plane
       link: mailto:<killiankopp@gmail.com>
 
-copyright: Copyright &copy; 2000 - 2025 Killian KOPP
+copyright: Copyright &copy; 2024 - 2025 Karned
+
+repo_url: https://github.com/orgs/karned-rekipe/repositories
+repo_name: github.com/karned-rekipe
 
 plugins:
   - search

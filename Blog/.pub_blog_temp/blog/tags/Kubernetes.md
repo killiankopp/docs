@@ -2,8 +2,8 @@
 publish: 'true'
 search:
   exclude: true
-slug: cv
-title: Tag - CV
+slug: kubernetes
+title: Tag - Kubernetes
 
 ---
 
@@ -32,7 +32,35 @@ title: Tag - CV
   -->
 
 
-## [Mon zéro article](http://127.0.0.1:8000/blog/None/)
+## [Mon premier article](http://127.0.0.1:8001/blog/mon-premier-article/)
+
+<!--suppress LongLine -->
+<div class="post-extra">
+    <div class="col">
+        <p class="post-date">2023-05-19 15:40:36</p>
+    </div>
+    <div class="col">
+    
+        <a href="http://127.0.0.1:8001/blog/tags/Kubernetes/">#Kubernetes</a>
+    
+        <a href="http://127.0.0.1:8001/blog/tags/AI/">#AI</a>
+    
+    </div>
+</div>
+
+# Introduction
+Ceci est mon premier article de blog...
+
+
+
+<div class="post-link">
+
+    &nbsp;
+
+</div>
+
+
+## [Mon zéro article](http://127.0.0.1:8001/blog/mon-zero-article/)
 
 <!--suppress LongLine -->
 <div class="post-extra">
@@ -41,9 +69,9 @@ title: Tag - CV
     </div>
     <div class="col">
     
-        <a href="http://127.0.0.1:8000/blog/tags/Kubernetes/">#Kubernetes</a>
+        <a href="http://127.0.0.1:8001/blog/tags/Kubernetes/">#Kubernetes</a>
     
-        <a href="http://127.0.0.1:8000/blog/tags/CV/">#CV</a>
+        <a href="http://127.0.0.1:8001/blog/tags/CV/">#CV</a>
     
     </div>
 </div>

@@ -2,8 +2,8 @@
 publish: 'true'
 search:
   exclude: true
-slug: ai
-title: Tag - AI
+slug: technologie
+title: Category - Technologie
 
 ---
 
@@ -32,7 +32,7 @@ title: Tag - AI
   -->
 
 
-## [Mon premier article](http://127.0.0.1:8000/blog/None/)
+## [Mon premier article](http://127.0.0.1:8001/blog/mon-premier-article/)
 
 <!--suppress LongLine -->
 <div class="post-extra">
@@ -41,14 +41,48 @@ title: Tag - AI
     </div>
     <div class="col">
     
-        <a href="http://127.0.0.1:8000/blog/tags/Kubernetes/">#Kubernetes</a>
+        <a href="http://127.0.0.1:8001/blog/tags/Kubernetes/">#Kubernetes</a>
     
-        <a href="http://127.0.0.1:8000/blog/tags/AI/">#AI</a>
+        <a href="http://127.0.0.1:8001/blog/tags/AI/">#AI</a>
     
     </div>
 </div>
 
 # Introduction
+Ceci est mon premier article de blog...
+
+
+
+<div class="post-link">
+
+    &nbsp;
+
+</div>
+
+
+## [Mon zéro article](http://127.0.0.1:8001/blog/mon-zero-article/)
+
+<!--suppress LongLine -->
+<div class="post-extra">
+    <div class="col">
+        <p class="post-date">2023-05-18 15:40:36</p>
+    </div>
+    <div class="col">
+    
+        <a href="http://127.0.0.1:8001/blog/tags/Kubernetes/">#Kubernetes</a>
+    
+        <a href="http://127.0.0.1:8001/blog/tags/CV/">#CV</a>
+    
+    </div>
+</div>
+
+# Introduction
+Ceci est mon premier article de blog...
+Ceci est mon premier article de blog...
+Ceci est mon premier article de blog...
+Ceci est mon premier article de blog...
+Ceci est mon premier article de blog...
+Ceci est mon premier article de blog...
 Ceci est mon premier article de blog...
 
 

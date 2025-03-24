@@ -1,12 +1,5 @@
-site_name: Karned
-site_url: https://karned.bzh
-
-nav:
-  - Accueil: index.md
-  - Robotique:
-      - Voiture: robotique/voiture.md
-  - Références: references.md
-  - À propos: about.md
+site_name: Blog
+site_url: https://blog.karned.bzh
 
 theme:
   name: material
@@ -49,6 +42,9 @@ copyright: Copyright &copy; 2000 - 2025 Killian KOPP
 
 plugins:
   - search
+  - pub-blog:
+      blog_dir: blog
+  - pub-meta
 
 markdown_extensions:
   - tables
