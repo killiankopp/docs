@@ -27,14 +27,12 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/killiankopp
-      name: github.com/killiankopp
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/killian-kopp/
-      name: linkedin.com/in/killian-kopp
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/@killiankopp
     - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/repositories/killiankopp
+      link: https://hub.docker.com/u/killiankopp
     - icon: fontawesome/solid/paper-plane
       link: mailto:<killiankopp@gmail.com>
 
