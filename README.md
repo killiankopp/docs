@@ -29,3 +29,8 @@ Build du site
 ```sh
 mkdocs build
 ```
+
+Hébergement du site
+```shell
+mkdocs gh-deploy
+```
